@@ -1,0 +1,8 @@
+{
+	"browser": "chrome",
+	
+	"url": "https://store.steampowered.com/",
+	
+	"explicitWaitTimeInSeconds": 5
+
+}
